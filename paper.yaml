@@ -1,0 +1,20 @@
+---
+fontsize: 12pt
+lang: de-DE
+papersize: a4
+linkcolor: blue
+urlcolor: blue
+link-citations: true
+links-as-notes: true
+nameInLink: true
+numbersections: true
+secPrefix: "Abs."
+figPrefix: "Abb."
+listings: true
+subfigGrid: true
+bibliography: bibliography.bib
+csl: din-1505-2-numeric.csl
+titlepage: true
+toc: true
+toc-own-page: true
+...

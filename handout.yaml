@@ -1,0 +1,14 @@
+---
+fontsize: 10pt
+lang: de-DE
+papersize: a4
+linkcolor: blue
+urlcolor: blue
+link-citations: true
+links-as-notes: true
+nameInLink: true
+secPrefix: "Abs."
+figPrefix: "Abb."
+bibliography: bibliography.bib
+csl: din-1505-2-numeric.csl
+...
