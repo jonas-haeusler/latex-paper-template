@@ -1,9 +1,6 @@
----
-title: "TITLE"
-date: DATE
-institution: INSTITUTION
-author: Jonas Häusler
----
+# Test title
+## Sub title
+### sub sub title
 
 \pagebreak
 # Literaturverzeichnis

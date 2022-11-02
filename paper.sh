@@ -1,1 +1,2 @@
-pandoc paper.yaml paper.md --filter pandoc-crossref --filter pandoc-citeproc --from markdown --template eisvogel.latex -o paper.pdf
+#!/bin/bash
+./pandock metadata.yaml paper.yaml paper.md --listings --top-level-division=chapter --filter pandoc-crossref --citeproc --from markdown --template eisvogel.latex -o paper.pdf
