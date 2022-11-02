@@ -1,17 +1,23 @@
 ---
 fontsize: 12pt
+mainfont: Times New Roman
 lang: de-DE
 papersize: a4
 linkcolor: blue
 urlcolor: blue
 link-citations: true
 links-as-notes: true
-nameInLink: true
+book: true
+classoption: [oneside]
 numbersections: true
+sectionsDepth: 3 
 secPrefix: "Abs."
+secTitle: "Abschnitt"
+lstPrefix: "Quelltext"
 figPrefix: "Abb."
+figureTitle: "Abbildung"
+listingTitle: "Quelltext"
 listings: true
-subfigGrid: true
 bibliography: bibliography.bib
 csl: din-1505-2-numeric.csl
 titlepage: true
